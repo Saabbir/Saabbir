@@ -1,14 +1,18 @@
 ### Hi there 👋
 
-I'm Saabbir. I'm an independent front-end web developer with 6+ years of experience. <br />
+I'm Saabbir. An independent front-end web developer with 8+ years of experience. <br />
 I work with fun and enjoy developing responsive, mobile-first projects on the web. <br />
+
+I've specialized in CRO and A/B testing, helping e-commerce sites overcome user friction <br />
+and drive revenue growth through targeted optimization. <br />
+
 To know more about my work you should check [my portfolio](https://saabbir.github.io).
 
-🔭 I’m currently working with React, Redux, and Firebase.<br />
-🌱 I’m currently learning NodeJS and Full-Stack Development.<br />
+🔭 I’m currently working with React, Shopify, and CRO Development.<br />
+🌱 I’m currently learning about Full-Stack Web Development.<br />
 🏆 I'm a Top Rated freelancer at [Upwork](https://www.upwork.com/freelancers/~0125f9d541d9412fba).<br />
 👯 I’m looking to collaborate on freelance projects.<br />
-⚡ Fun fact: I love CSS :purple_heart:<br />
+⚡ Fun fact: I love Vanilla JS :purple_heart:<br />
 
 ---
 

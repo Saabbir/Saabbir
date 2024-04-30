@@ -8,16 +8,20 @@
 **Hi there 👋**
 
 I'm Saabbir. An independent front-end web developer with 8+ years of experience. <br />
-I work with fun and enjoy developing responsive, mobile-first projects on the web. <br />
+I work with fun and enjoy developing responsive, mobile-first projects on the web. <br /><br />
 
 I've specialized in CRO and A/B testing, helping e-commerce sites overcome user friction <br />
 and drive revenue growth through targeted optimization. <br />
+
+<br />
 
 **Looking for projects involving:**
 
 - Frontend development (HTML, CSS, JavaScript, React)
 - A/B testing and CRO strategy (Optimizely, AB Tasty, Convert, VWO, etc.)
 - Shopify development
+
+<br />
 
 **A/B Testing Tools I use regularly:**
 
@@ -29,7 +33,11 @@ and drive revenue growth through targeted optimization. <br />
 ✅ Convert Experiences <br />
 ✅ Kameleoon <br />
 
+<br />
+
 To know more about my work you should check [my portfolio](https://saabbir.github.io).
+
+<br />
 
 🔭 I’m currently working with React, Shopify, and CRO Development.<br />
 🌱 I’m currently learning about Full-Stack Web Development.<br />
